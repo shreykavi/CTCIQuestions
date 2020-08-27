@@ -7,4 +7,5 @@ def checkPermutation(s1, s2):
     if len(s2) > 0:
         return False
     return True
+
 print(checkPermutation("TETS", "TEST"))
