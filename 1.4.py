@@ -49,4 +49,4 @@ def isPalindromePermutation(s):
             odd_count += 1
     return (odd_count <= 1)
 
-print(isPalindromePermutation("TSAST"))
+print(isPalindromePermutation("TSSSAST"))
